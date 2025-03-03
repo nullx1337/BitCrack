@@ -5,6 +5,7 @@
 #include <cuda_runtime.h>
 
 #include <string>
+#include <cstring>
 #include <vector>
 
 namespace cuda {
